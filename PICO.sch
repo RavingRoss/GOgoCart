@@ -20,7 +20,7 @@ P 5750 3700
 F 0 "U1" H 5750 3700 50  0001 L BNN
 F 1 "RP2040" H 5750 3700 50  0001 L BNN
 F 2 "QFN40P695X695X90-57T320N" H 5750 3700 50  0001 L BNN
-F 3 "" H 5750 3700 50  0001 L BNN
+F 3 "https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf" H 5750 3700 50  0001 L BNN
 	1    5750 3700
 	1    0    0    -1  
 $EndComp
